@@ -1,0 +1,7 @@
+.main-content {
+    margin: 10px auto;
+    border-radius: 15px;
+    border: 2px solid darkgray;
+    box-shadow: 5px 5px lightgray;
+    padding: 20px;
+}
